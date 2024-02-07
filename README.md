@@ -1,5 +1,5 @@
-# Skiovox Helper
-### The helper extension for the Skiovox exploit.
+# Skiosuperior Helper
+### The superior version of the helper extension for the Skiovox exploit.
 
 ## Install
 
@@ -7,12 +7,16 @@
 
 Once installed, open a new tab to see the extension's homepage.
 
-## Features
+## Basic Features
 - Fixes most shortcut functionality within the exploit
 - Allows for resizing and dragging of windows
 - Makes it easier to add Google accounts and use the Web Store within the exploit
 - Fixes functionality of some Google logins on webpages
 - Allows you to see time, date, and battery.
+## Superior Features (addons)
+- Allows you to see volume when adjusted
+- Lets you know what network you are connected to
+- More Features Soon
 
 *Note: You can exit fullscreen by pressing ctrl+T after you've set up the shortcuts.*
 
